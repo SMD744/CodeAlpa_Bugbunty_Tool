@@ -80,14 +80,14 @@ install request
 pip install requests
 
 ````Run the bug bounty tool````
-python bugbunty.py testphp.vulnweb.com   
+python Bugbunty.py testphp.vulnweb.com   
 
 
 Deactivate the virtual environment when done
 deactivate
 
 📄 Run the tool:
-python bugbunty.py testphp.vulnweb.com
+python Bugbunty.py testphp.vulnweb.com
 
 Replace testphp.vulnweb.com with your target URL
 Defualt is txt file butt you can choose to show result aat html by
@@ -110,7 +110,7 @@ Which includes:
 -SSL issuer & expiration
 
 📌 Sample Scan Command
-python bugbunty.py testphp.vulnweb.com --report html
+python Bugbunty.py testphp.vulnweb.com --report html
 
 run
 firefox (the output generated)
