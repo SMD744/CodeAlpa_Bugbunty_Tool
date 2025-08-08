@@ -10,17 +10,24 @@ Developed during my **CodeAlpha Internship**, this tool provides both **TXT** an
 ---
 
 ⚠️ Caution & Ethics
-This tool is intended for ethical security testing only. Please:
+Please use this tool responsibly and only on websites you own or have permission to test.
+This tool was made for:
+Learning
+Ethical hacking
+Bug bounty programs with consent
 
-Always obtain explicit permission before scanning any systems or websites.
+❗ Do NOT:
+Use it on websites without permission
+Attempt to exploit real vulnerabilities
+Run it against live production systems without authorization
+Unauthorized use is illegal and unethical.
 
-Avoid any intrusive actions that may disrupt services.
+👨‍💻 Who Is This Tool For?
 
-Use responsibly and respect privacy and data laws.
-
-Remember that unauthorized scanning or exploitation is illegal and unethical.
-
-By using this tool, you agree to abide by all applicable laws and ethical guidelines.
+Bug bounty hunters (legal hackers who report bugs for rewards)
+Cybersecurity students
+Ethical hackers
+Developers doing security testing on their own sites
 
 
 
