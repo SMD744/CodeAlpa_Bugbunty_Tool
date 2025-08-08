@@ -1,0 +1,24 @@
+Bug Bounty Scan Report for testphp.vulnweb.com
+Scan Timestamp: 2025-08-07 10:25:08
+
+--- Scan Results for testphp.vulnweb.com ---
+Live: True
+Tested URL: http://testphp.vulnweb.com
+Missing Security Headers:
+ - content-security-policy
+ - strict-transport-security
+ - x-content-type-options
+ - referrer-policy
+ - permissions-policy
+Sensitive Paths Found:
+ - http://testphp.vulnweb.com/admin
+Admin Panels Found:
+ - http://testphp.vulnweb.com/admin
+ - http://testphp.vulnweb.com/login.php
+CORS Misconfiguration:
+ None
+Open Redirects Found:
+Potential SQL Injection Vulnerabilities:
+Potential XSS Vulnerabilities:
+SSL Certificate Info:
+ SSL info not available or HTTP only.
